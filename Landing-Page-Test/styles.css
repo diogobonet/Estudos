@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab&display=swap');
+
+
+/* font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Slab', serif; */
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+/* body {
+    /* font-size: 100; */
+
+
+.cabecalho {
+    display: flex;
+    gap: 42px;
+    margin-top: 10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cabecalho-menu{
+    display: flex;
+    gap: 50px;
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+}
+
+.logo {
+    font-family: 'Poppins', sans-serif;
+    color: blue;
+    width: 110px;
+}
+
+.logo-title {
+    font-family: 'Poppins', sans-serif;
+    color: blue;
+    font-size: 35px;
+}
+
+.conteudo-principal {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 100px;
+    margin-left: 85px;
+}
+
+.conteudo-principal-sub {
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px
+}
+
+.botao {
+    margin-top: 15px;
+    background-color: blue;
+    color: white;
+    width: 160px;
+    height: 60px;
+    border: none;
+    box-shadow: 4px 5px 4px lightblue;
+    border-radius: 20px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.botao:hover {
+    background-color: rgb(80, 19, 177);
+}
