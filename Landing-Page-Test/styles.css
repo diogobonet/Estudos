@@ -136,18 +136,16 @@ strong {
     font-size: 26px;
 }
 
-.contatos-sub p {
+.contatos-sub {
     font-family: 'Nunito Sans', sans-serif;
-    font-size: 18px;
-    display: flex;
-    
+    font-size: 20px;    
 }
 
 .contatos-options {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    font-size: 16px;
+    font-size: 21px;
     gap: 62px;
     font-family: 'Nunito Sans', sans-serif;
 }
