@@ -149,3 +149,41 @@ strong {
     gap: 62px;
     font-family: 'Nunito Sans', sans-serif;
 }
+
+/* RODAPÉ */
+
+footer {
+    background-color: blue;
+    margin-top: 20px;
+    color: white;
+}
+
+.rodape-logo {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    width: 110px;
+    margin-left: 30px;
+}
+
+.rodape-contain {
+    display: flex;
+    gap: 42px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 17px;
+}
+
+.rodape-nav {
+    font-family: 'Nunito Sans', sans-serif;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.rodape-sub {
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    text-align: center;
+    border-top: 1px solid white;
+}
