@@ -110,11 +110,12 @@ strong {
     border-top: 2px solid blue;
     margin-top: 12px;
     font-family: 'Poppins', sans-serif;
-    font-size: 20px;
+    font-size: 26px;
 }
 
 .sobrenos-sub {
     margin-top: 102px;
+    font-size: 21px;
     font-family: 'Nunito Sans', sans-serif;
     justify-content: space-between;
 }
@@ -132,12 +133,12 @@ strong {
 .contatos-titulo {
     border-top: 2px solid blue;
     font-family: 'Poppins', sans-serif;
-    font-size: 20px;
+    font-size: 26px;
 }
 
 .contatos-sub p {
     font-family: 'Nunito Sans', sans-serif;
-    font-size: 17px;
+    font-size: 18px;
     display: flex;
     
 }
