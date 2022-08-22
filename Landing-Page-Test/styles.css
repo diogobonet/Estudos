@@ -125,20 +125,23 @@ strong {
 .contatos {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-end;
+    text-align: right;
     margin-top: 166px;
-    text-align: center;
+    justify-content: space-around;
 }
 
 .contatos-titulo {
     border-top: 2px solid blue;
     font-family: 'Poppins', sans-serif;
     font-size: 26px;
+    margin-right: 250px;
 }
 
 .contatos-sub {
     font-family: 'Nunito Sans', sans-serif;
     font-size: 20px;    
+    margin-right: 52px;
 }
 
 .contatos-options {
@@ -147,7 +150,14 @@ strong {
     justify-content: space-around;
     font-size: 21px;
     gap: 62px;
+    margin-right: 86px;
     font-family: 'Nunito Sans', sans-serif;
+}
+
+.img-contato {
+    margin-left: 195px;
+    margin-top:-185px;
+    margin-bottom: 12px;
 }
 
 /* RODAPÉ */
