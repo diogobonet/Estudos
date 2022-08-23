@@ -19,7 +19,7 @@ strong {
 /* CABEÇALHO */
 
 .cabecalho {
-    background-color: #efefef;
+    background-color: blue;
     display: flex;
     gap: 42px;
     flex-direction: row;
@@ -30,14 +30,14 @@ strong {
 .cabecalho-menu{
     display: flex;
     gap: 50px;
-    color: black;
+    color: white;
     font-family: 'Roboto Slab', serif;
     font-weight: 400;
 }
 
 .logo {
     font-family: 'Poppins', sans-serif;
-    color: blue;
+    color: #efefef;
     width: 110px;
 }
 
