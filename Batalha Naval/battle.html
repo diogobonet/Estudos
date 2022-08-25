@@ -1,0 +1,124 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Battle Game</title>
+    </head>
+    <body style="background-color: lightblue">
+        <table style="width: 500px" border="1" cellpadding=0 cellspacing=0 align=center>
+            <tr>
+                <td colspan="10" style="text-align: center; font-size: 30px; color: brown">
+                    Jogo Batalha Naval
+                </td>
+            </tr>
+            <button>Iniciar Jogo</button>
+            <script language="JavaScript">
+                for(i=0; i<6; i++) {
+                    document.write(`<tr style="height: 50px">`);
+                    for(j=0; j<10; j++) {
+                        document.write(`<td><img src="images/back.jpg" id="tile${i}${j}" onclick="tileOnClick(${i},${j})"></td>`);
+                    }
+                    document.write(`</tr>`)
+                }
+            </script>
+            <tr>
+                <td colspan="5" style="text-align: center; color: brown; font-size: 25px;">
+                    <div id="scoreboard_view_score">Pontos: 0</div>
+                </td>
+                <td colspan="5" style="text-align: center; color: brown; font-size: 25px;">
+                    <div id="scoreboard_view_lifes">Vidas: 3</div>
+                </td>
+            </tr>
+        </table>
+        <script language="JavaScript">
+            var lifes;
+            var score;
+            var gameover;
+//            água => 0
+//            submarino => 1 (7 pontos)
+//            navio de guerra => 2 (6 pontos)
+//            porta aviões => 3 (9 pontos)
+            var grid = [
+                [0, 0, 1, 0, 0, 0, 0, 2, 0, 0],
+                [0, 0, 0, 0, 3, 0, 0, 0, 1, 0],
+                [0, 0, 0, 0, 1, 0, 0, 3, 0, 0],
+                [0, 2, 0, 0, 0, 0, 0, 0, 1, 0],
+                [0, 0, 1, 0, 0, 0, 1, 0, 0, 0],
+                [0, 3, 0, 0, 0, 2, 0, 0, 0, 1]
+            ];
+            var images = [
+                "images/agua.jpg",
+                "images/submarino.jpg",
+                "images/navio_de_guerra.jpg",
+                "images/porta_avioes.jpg"
+            ]
+            var scores = [0, 5, 15, 25];
+            
+            function init_game() {
+                lifes = 3;
+                score = 0;
+                gameover = false;
+                
+                shuffle();
+            }
+            
+            function shuffle() {
+                
+                for(i=0; i<1000; i++) {
+                    i1 = Math.floor(Math.random() * 6);
+                    j1 = Math.floor(Math.random() * 10);
+                    i2 = Math.floor(Math.random() * 6);
+                    j2 = Math.floor(Math.random() * 10);
+                    aux = grid[i1][j1];
+                    grid[i1][j1] = grid[i2][j2];
+                    grid[i2][j2] = aux;
+                }
+            }
+            
+            function tileOnClick(row, col) {
+                
+                if (gameover) return;
+                
+                type = grid[row][col];
+                image = document.getElementById(`tile${row}${col}`);
+                image.src = images[type];
+                
+                scoreboard();
+            }
+            
+            function scoreboard() {
+                
+                if (type == 0) {
+                    lifes--;
+                    if (lifes == 0) {
+                        alert('GAME OVER!!! BOOOOOMMMMMMM!!!');
+                        gameover = true;
+                    }
+                }
+                score += scores[type];
+                view_scoreboard();
+            }
+            
+            function view_scoreboard() {
+                
+                sv_score = document.getElementById("scoreboard_view_score");
+                sv_lifes = document.getElementById("scoreboard_view_lifes");
+                sv_score.innerHTML = `Pontos: ${score}`;
+                sv_lifes.innerHTML = `Vidas: ${lifes}`;
+            }
+            
+            function view_grid() {
+                
+                for(i=0; i<6; i++) {
+                    for(j=0; j<10; j++) {
+                        type = grid[i][j];
+                        image = document.getElementById(`tile${i}${j}`);
+                        image.src = images[type];
+                    }
+                }
+            }
+            
+            init_game()
+//            view_grid();
+        </script>
+    </body>
+</html>
