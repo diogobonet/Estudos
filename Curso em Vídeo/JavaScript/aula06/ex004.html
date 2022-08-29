@@ -21,9 +21,11 @@
     <p>Já me livrei da maldição</p>
     <script>
         var nome = window.prompt("Qual é o seu nome?")
+        var num = window.prompt("Digite um número:")
         document.write(`Olá! <strong>${nome}</strong>, o seu nome possui ${nome.length} letras! <br>`)
-        document.write(`Seu nome fica assim em letras maiusculas: ${nome.toUpperCase()}`)
-        document.write(`Seu nome fica assim em letras minusculas ${nome.toLowerCase()}`)
+        document.write(`Seu nome fica assim em letras maiusculas: ${nome.toUpperCase()}<br>`)
+        document.write(`Seu nome fica assim em letras minusculas ${nome.toLowerCase()}<br>`)
+        document.write(`Você digitou o número ${Number.parseFloat(num)} <br>`)
     </script>
 </body>
 </html>
