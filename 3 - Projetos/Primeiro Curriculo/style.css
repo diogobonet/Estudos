@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(68.15deg, #ffa10c 16.60%, #ff4360 85.60%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+}
+
+.cabecalho {
+    text-align: center;
+    background-color: #ffa10c;
+}
+
+.principal-text {
+    border-radius: 14px;
+    border-color: blue;
+}
+
+img {
+    width: 15%;
+    height: 15%;
+    margin-top: 10px;
+    margin-left: 350px;
+    margin-bottom: 10px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+
+.name {
+    display:inline-block;
+    margin-top: 10px;
+    margin-left: 10%;
+}
+
+.principal-text {
+    display:inline-block;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+
