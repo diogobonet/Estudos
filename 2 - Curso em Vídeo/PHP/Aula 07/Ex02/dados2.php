@@ -8,15 +8,14 @@
 </head>
 <body>
     <?php
-    $nome = $_POST['nome'];
-    $ano = $_POST['ano'];
-    $sexo = $_POST['sexo'];
+    $nome = isset($_GET['nome'])?$_GET['nome']:"Nome não informado!";
+    $ano = isset($_GET['ano'])?$_GET['ano']:0;
+    $sexo = isset($_GET['sexo'])?$_GET['sexo']:["Sem sexo"];
 
     $idade = 2022 - $ano;
     
     echo("Seu nome é $nome <br>");
-    echo("$nome, você nasceu no ano de $ano e possui $idade anos de vida!<br>");
-    echo("E você pertence ao sexo $sexo!")
+    echo("$nome, você nasceu no ano de $ano e possui $idade anos de vida! Seu sexo é $sexo!<br>");
     ?>
 </body>
 </html>
