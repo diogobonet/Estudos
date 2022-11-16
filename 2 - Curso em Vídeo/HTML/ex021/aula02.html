@@ -7,6 +7,27 @@
     <style>
         body {
             background-color: gray;
+            margin: 0px;
+        }
+
+        main {
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 10px 0px;
+            box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.379);
+        }
+
+        nav {
+            background-color: lightgray;
+            padding: 3px;
+            box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.395);
+        }
+
+        nav > a {
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
         }
 
         header {
@@ -16,7 +37,23 @@
         }
 
         footer {
-            background-color: black
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 1px;
+            margin: 0px;
+        }
+
+        article > aside{
+            background-color: rgb(180, 169, 169);
+        }
+
+        div#bola {
+            height: 100px;
+            width: 100px;
+            margin: 10px;
+            background-color: white;
+            border-radius: 50%;
         }
     </style>
     <title>Grouping Tags</title>
@@ -24,6 +61,7 @@
 <body>
 
     <header>
+        <h1>Meu site</h1>
         <nav>
             <a href="#">Link</a>
             <a href="#">Link</a>
@@ -40,13 +78,15 @@
         <article id="noticias">
             <h2>Noticias para o Brasil</h2>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Incidunt dolore cumque dolor perferendis fuga numquam nesciunt reprehenderit voluptas voluptatum assumenda accusantium et, repellat blanditiis dolorum, quas dicta voluptatem nihil. Dolore!</p>
-            <aside>Artigos para brasileiros</aside>
+            <aside>Artigo por José da Silva</aside>
         </article>
     </main>
 
-    <footer></footer>
+    <footer>
+        <p>Desenvolvido por DiogoBonet</p>
+    </footer>
 
-    <div></div>
+    <div id="bola"></div>
     <span></span>
 </body>
 </html>
