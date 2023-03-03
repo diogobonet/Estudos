@@ -34,16 +34,17 @@ public class Caneta {
 
     public void tampar() {
         this.tampada = true;
-    }
+        }
 
-    public void destampar() {
+public void destampar() {
         this.tampada = false;
-    }
-    public void status() {
+        }
+public void status() {
         System.out.println("Modelo: " + this.getModelo());
         System.out.println("Ponta: " + this.getPonta());
         System.out.println("Cor: " + this.cor);
         System.out.println("Tampada: " + this.tampada);
-    }
-}
+
+        }
+        }
 
