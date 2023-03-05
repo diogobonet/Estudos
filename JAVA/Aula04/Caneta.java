@@ -14,8 +14,6 @@ public class Caneta {
         this.tampar();
     }
 
-
-
     public String getModelo() {
         return this.modelo;
     }
@@ -46,5 +44,5 @@ public void status() {
         System.out.println("Tampada: " + this.tampada);
 
         }
-        }
+}
 
