@@ -7,11 +7,9 @@ public class Banco {
     private float saldo;
     private boolean status;
 
-    public Banco(int n, String d, float s, boolean st) {
+    public Banco(int n, String d) {
         this.setNumConta(n);
         this.setDono(d);
-        this.setSaldo(s);
-        this.setStatus(st);
     }
     public int getNumConta(){
         return this.numConta;
@@ -66,6 +64,8 @@ public class Banco {
             this.setSaldo(50);
         } if (t == "CP") {
             this.setSaldo(150);
+        } else {
+            System.out.println("Você não pode criar uma conta" + t + "pois está conta não existe!");
         }
     }
 
@@ -76,6 +76,45 @@ public class Banco {
             System.out.println("Conta em débito!");
         } else {
             this.setStatus(false);
+        }
+    }
+
+    public void depositar(float v) {
+       if (getStatus() == true) {
+            this.setSaldo(this.getSaldo() + v);
+            System.out.println("Deposito concluido com sucesso na conta de " + this.getDono());
+       }
+        
+        else if (getStatus() == false) {
+           System.out.println("Você não pode depositar, pois sua conta está fechada!");
+       }
+    }
+
+    public void sacar(float v) {
+        if (getStatus() == true && saldo > 0) {
+            this.setSaldo(this.getSaldo() - v);
+            System.out.println("Dinheiro sacado com sucesso!Você agora possui R$" + this.getSaldo());
+        }
+        else if (getStatus() == true && saldo <= 0) {
+            System.out.println("Não foi possivel sacar pois você não possui dinheiro na sua conta!");
+
+        } else if (getStatus() == false) {
+            System.out.println("Não foi possivel sacar o dinheiro, pois sua conta está FECHADA!");
+        }
+    }
+
+    public void pagarMensal() {
+        float v = 0;
+        if (this.getTipo() == "CC") {
+            v = 12;
+        } else if (this.getTipo() == "CP") {
+            v = 20;
+        }
+        if (getStatus()) {
+            this.setSaldo(this.getSaldo() - v);
+            System.out.println(this.getDono() + ", a sua mensalidade foi paga com sucesso! Seu saldo atual na conta é de R$" + this.getSaldo());
+        } else {
+            System.out.println("Sua conta está fechada portanto não poderá pagar mensalmente o plano do banco!");
         }
     }
 
