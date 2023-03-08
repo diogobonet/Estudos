@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b835ce27-c8d1-4d95-a5cb-52ffb07d1d91" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula05/Aula05.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula05/Aula05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula05/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula05/Banco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -27,6 +26,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2MT75FrBBJpHkmNFkDSvBg4m3WV" />
   <component name="ProjectLevelVcsManager">
@@ -90,7 +92,7 @@
       <workItem from="1678186417892" duration="2194000" />
       <workItem from="1678190328576" duration="7754000" />
       <workItem from="1678301635910" duration="763000" />
-      <workItem from="1678302419418" duration="2888000" />
+      <workItem from="1678302419418" duration="5651000" />
     </task>
     <servers />
   </component>
