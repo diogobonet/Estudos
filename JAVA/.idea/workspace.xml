@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b835ce27-c8d1-4d95-a5cb-52ffb07d1d91" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Aula06/ControleRemoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula06/ControleRemoto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2MT75FrBBJpHkmNFkDSvBg4m3WV" />
   <component name="ProjectLevelVcsManager">
@@ -53,6 +53,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
   }
 }</component>
   <component name="RunManager">
@@ -94,6 +99,9 @@
       <workItem from="1678301635910" duration="763000" />
       <workItem from="1678302419418" duration="6129000" />
       <workItem from="1678396399148" duration="241000" />
+      <workItem from="1678730832894" duration="218000" />
+      <workItem from="1678731067375" duration="47000" />
+      <workItem from="1678731206442" duration="1950000" />
     </task>
     <servers />
   </component>
