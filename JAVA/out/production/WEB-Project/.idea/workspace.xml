@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b835ce27-c8d1-4d95-a5cb-52ffb07d1d91" name="Changes" comment="" />
+    <list default="true" id="b835ce27-c8d1-4d95-a5cb-52ffb07d1d91" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/Aula07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/Lutador.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07/Lutador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Calculos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Tipos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/aula01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/output.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB/2 - Curso em Vídeo/PHP/Aula 07/Ex03/_css/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB/2 - Curso em Vídeo/PHP/_css/Thumbs.db" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +38,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2MT75FrBBJpHkmNFkDSvBg4m3WV" />
   <component name="ProjectLevelVcsManager">
@@ -36,23 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/diogo/OneDrive/Documentos/GitHub/WEB-Project/JAVA",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diogo/OneDrive/Documentos/GitHub/WEB-Project/JAVA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="aula01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Faculdade.Aula01.aula01" />
@@ -91,6 +108,12 @@
       <workItem from="1678190328576" duration="7754000" />
       <workItem from="1678301635910" duration="763000" />
       <workItem from="1678302419418" duration="6129000" />
+      <workItem from="1678396399148" duration="241000" />
+      <workItem from="1678730832894" duration="218000" />
+      <workItem from="1678731067375" duration="47000" />
+      <workItem from="1678731206442" duration="1950000" />
+      <workItem from="1678791653297" duration="2648000" />
+      <workItem from="1678795836510" duration="806000" />
     </task>
     <servers />
   </component>
