@@ -20,5 +20,6 @@ public class Tipos {
         System.out.println(this.b);
         System.out.println(this.c);
     }
+    // Double é mais preciso que o 
 
 }

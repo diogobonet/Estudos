@@ -6,16 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b835ce27-c8d1-4d95-a5cb-52ffb07d1d91" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula07/Aula07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula07/Lutador.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07/Lutador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Calculos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Tipos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/aula01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/output.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WEB/2 - Curso em Vídeo/PHP/Aula 07/Ex03/_css/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WEB/2 - Curso em Vídeo/PHP/_css/Thumbs.db" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +103,7 @@
       <workItem from="1678731067375" duration="47000" />
       <workItem from="1678731206442" duration="1950000" />
       <workItem from="1678791653297" duration="2648000" />
-      <workItem from="1678795836510" duration="3273000" />
+      <workItem from="1678795836510" duration="4265000" />
     </task>
     <servers />
   </component>
