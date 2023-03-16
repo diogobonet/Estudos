@@ -6,16 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="b835ce27-c8d1-4d95-a5cb-52ffb07d1d91" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula07/Aula07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula07/Lutador.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07/Lutador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/PBL1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/PBL1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/PBL2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/PBL2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Aula01/Tipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Faculdade/Aula01/Tipos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Calculos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Tipos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/aula01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/output.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WEB/2 - Curso em Vídeo/PHP/Aula 07/Ex03/_css/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WEB/2 - Curso em Vídeo/PHP/_css/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Aula07/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/Aula07/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +111,10 @@
       <workItem from="1678731067375" duration="47000" />
       <workItem from="1678731206442" duration="1950000" />
       <workItem from="1678791653297" duration="2648000" />
-      <workItem from="1678795836510" duration="806000" />
+      <workItem from="1678795836510" duration="6686000" />
+      <workItem from="1678804807791" duration="677000" />
+      <workItem from="1678805798124" duration="1237000" />
+      <workItem from="1678815220865" duration="801000" />
     </task>
     <servers />
   </component>
