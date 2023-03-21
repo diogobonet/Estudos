@@ -107,5 +107,4 @@ public class ControleRemoto implements Controlador{
             this.setTocando(false);
         }
     }
-
 }

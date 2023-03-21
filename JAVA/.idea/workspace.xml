@@ -6,14 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="b835ce27-c8d1-4d95-a5cb-52ffb07d1d91" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula07/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/PBL1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/PBL1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/PBL2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/PBL2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faculdade/Aula01/Tipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Faculdade/Aula01/Tipos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06/ControleRemoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula06/ControleRemoto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/Casa/Casa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/Casa/Casa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/Casa/Endereço.java" beforeDir="false" afterPath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/Casa/Endereço.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/Casa/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Faculdade/Aula01/Exercicios/Casa/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Aula07/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/Aula07/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/Casa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/Casa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/Endereço.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/Endereço.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB/2 - Curso em Vídeo/PHP/Aula 07/Ex03/_css/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB/2 - Curso em Vídeo/PHP/_css/Thumbs.db" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +61,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -143,6 +145,10 @@
       <workItem from="1678804807791" duration="677000" />
       <workItem from="1678805798124" duration="1237000" />
       <workItem from="1678815220865" duration="7638000" />
+      <workItem from="1679083308591" duration="789000" />
+      <workItem from="1679396713382" duration="6729000" />
+      <workItem from="1679406769353" duration="77000" />
+      <workItem from="1679406874994" duration="2806000" />
     </task>
     <servers />
   </component>
@@ -159,5 +165,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -15,7 +15,7 @@ public class Endereço {
 
     public void status() {
         System.out.println(this.getRua() + " | número: " + this.getNumero() + " | Complemento: "
-        + this.getComplemento() + " | reside no bairro: " + this.getBairro());
+        + this.getComplemento() + " | Reside no bairro: " + this.getBairro());
     }
 
     public String getRua() {
