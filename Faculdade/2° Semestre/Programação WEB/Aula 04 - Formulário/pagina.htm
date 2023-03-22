@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Folhas de Estilo</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <h1>Entre em contato:</h1>
+        <form name="frmContact" id="frmContact" method="post"    enctype="text/plain" action="">
+            <table class="myTable" align=center>
+                <tr>
+                    <td style="width: 200px; text-align: right;">
+                        Nome:
+                    </td>
+                    <td>
+                        <input type="text" name="txtName" id="txtName" class="textbox">
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 200px; text-align: right;">
+                        E-mail:
+                    </td>
+                    <td>
+                        <input type="text" name="txtEmail" id="txtEmail" class="textbox">
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 200px; text-align: right;">
+                        Mensagem:
+                    </td>
+                    <td>
+                        <textarea name="txtMessage" id="txtMessage" style="width: 400px; height: 200px;"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align: center">
+                        <input type="button" name="btnSend" id="btnSend" value="Enviar" onclick="btnSendOnClick();">
+                        &nbsp;&nbsp;&nbsp;
+                        <input type="reset" name="btnClear" id="btnClear" value="Limpar">
+                    </td>
+                </tr>
+            </table>
+        </form>
+        <script language="JavaScript">
+            function btnSendOnClick() {
+                var name = frmContact.txtName.value;
+                if (name != "") {
+                    alert('Olá, ' + name);
+                }
+            }
+        </script>
+    </body>
+</html>

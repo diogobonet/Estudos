@@ -1,0 +1,16 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+}
+
+.myTable {
+    width: 800px;
+    border: 1px solid #0000FF;
+}
+
+.textbox {
+    width: 400px;
+}

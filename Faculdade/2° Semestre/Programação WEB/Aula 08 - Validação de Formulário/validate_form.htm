@@ -1,0 +1,106 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Validação de Formulário</title>
+        <style>
+            table {
+                width: 800px;
+                border: 1px solid #999999;
+            }
+            h1 {
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body onload="form1.txtName.focus();">
+        <h1>Validação de Formulários</h1>
+        <form name="form1" id="form1" action="" enctype="text/plain" method="get">
+            <table align=center cellspacing=5>
+                <tr>
+                    <td style="width: 150px; text-align: right">Nome:</td>
+                    <td>
+                        <input type="text" id="txtName" name="txtName" style="width: 450px">
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: right">E-mail:</td>
+                    <td>
+                        <input type="text" id="txtEmail" name="txtEmail" style="width: 450px">
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: right">Gênero:</td>
+                    <td>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" name="optGender" value="1"> Masculino
+                        <input type="radio" name="optGender" value="2"> Feminino
+                        <input type="radio" name="optGender" value="3"> Outros
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: right">Renda Bruta Mensal:</td>
+                    <td>
+                        <select id="cboIncome" name="cboIncome">
+                            <option>--- Selecione sua Renda Mensal</option>
+                            <option value="1">Sem renda fixa</option>
+                            <option value="2">Menos de R$ 1000,00</option>
+                            <option value="3">Entre R$ 1000,00 e R$ 5000,00</option>
+                            <option value="4">Acima de R$ 5000,00</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align: center">
+                        Eu concordo com as informações prestadas acima
+                        <input type="checkbox" id="chkAgree" name="chkAgree" value="1">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align: center">
+                        <input type="button" id="btnSend" value="Enviar" onclick="btnSendOnClick();">
+                        <input type="reset" id="btnClear" value="Limpar">
+                    </td>
+                </tr>
+            </table>
+        </form>
+        <script language="JavaScript">
+            function btnSendOnClick() {
+                let txtName = document.getElementById('txtName');
+                let txtEmail = document.getElementById('txtEmail');
+                let optGender = form1.optGender;
+                let cboIncome = document.getElementById('cboIncome');
+                let chkAgree = document.getElementById('chkAgree');
+                
+                if (txtName.value.length < 5) {
+                    let message = '';
+                    if (txtName.value == '') {
+                        message = 'Por favor, digite o nome!';
+                    }
+                    else {
+                        message = 'Por favor, digite o nome com, pelo menos, 5 caracteres!';
+                    }
+                    alert(message);
+                    txtName.value = '';
+                    txtName.focus();
+                }
+                else if (txtEmail.value == '') {
+                    alert('Por favor, digite o e-mail!');
+                    txtEmail.focus();
+                }
+                else if (optGender.value == '') {
+                    alert('Por favor, escolha uma das opções de gênero!');
+                }
+                else if (cboIncome.selectedIndex == 0) {
+                    alert('Por favor, escolha uma das opções de renda!');
+                    cboIncome.focus();
+                }
+                else if (!chkAgree.checked) {
+                    alert('Por favor, você deve dar o aceite aos termos!');
+                }
+                else {
+                    form1.submit();
+                }
+            }
+        </script>
+    </body>
+</html>
