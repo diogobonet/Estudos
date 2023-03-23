@@ -1,4 +1,4 @@
-package Faculdade.Aula01.Exercicios;
+package PBL01;
 import java.util.Arrays;
 import java.util.Scanner;
 
