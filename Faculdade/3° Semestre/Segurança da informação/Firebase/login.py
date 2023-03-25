@@ -1,6 +1,5 @@
 import pyrebase
 
-
 firebaseConfig = {
   "apiKey": "AIzaSyDwWmqCL9OxWk_Twy0XJWWxrIoSYEV6Klo",
   "authDomain": "informationsecurity-44c91.firebaseapp.com",
@@ -22,5 +21,6 @@ email = input("Email: ")
 senha = input("Senha: ")
 
 login = auth.sign_in_with_email_and_password(email, senha)
-auth.send_email_verification(login['idToken'])
+decoded_token = auth.verify_id_token(login)
+uid = decoded_token['uid']
 print("Concluido")
