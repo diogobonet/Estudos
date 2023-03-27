@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Teste de Comandos JS</title>
+    <style>
+        html {
+            font-family: 'Lucida Sans';
+        }
+        body {
+            width: 70%;
+            max-width: 900px;
+            min-width: 500px;
+            margin: 0 40px;
+        }
+        button {
+            width: 250px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Comandos JS</h2>
+    <h4>Laço de repetição</h4>
+    <div class="textos">
+        <p class="texto1"></p>
+        <p class="texto2"></p>
+        <p class="texto3"></p>
+    </div>
+
+    <h4>JS pode alterar os <b>atributos de elementos</b> HTML</h4>
+    <p>Alterando o valor do atributo src (source) de uma imagem:</p>
+    <img id="img" src="img/lamp_Off.png" style="width:100px"><br>
+    <button onclick="document.getElementById('img').src='img/lamp_On.png'">Acende a Lâmpada</button>
+    <button onclick="document.getElementById('img').src='img/lamp_Off.png'">Apaga a Lâmpada</button>
+    <br>
+
+    <h4>JS pode alterar o conteúdo interno de elementos HTML</h4>
+    <p id="meuTexto">Este é o texto original.</p>
+    <button type="button" onclick='document.getElementById("meuTexto").innerHTML = "Olá, eu sou o JavaScript!"'>Clique
+        para mudar o texto!</button>
+    <button type="button" onclick='document.getElementById("meuTexto").innerHTML = "Este é o texto original."'>Clique
+        para voltar ao texto original!</button><br>
+    
+    <h4>JS pode alterar o estilo de elementos HTML</h4>
+    <p id="meuTexto1">Outro texto original.</p>
+    <button type="button" onclick='document.getElementById("meuTexto1").style.fontSize = "20px";'>Clique
+        para mudar o tamanho da fonte!</button>
+    <button type="button" onclick='document.getElementById("meuTexto1").style.fontSize = "medium";'>Clique
+        para voltar à fonte original!</button><br>
+    
+    <h4>JS pode ocultar ou mostrar elementos HTML</h4>
+    <p id="meuTexto2">Um outro texto original.</p>
+    <button type="button" onclick='document.getElementById("meuTexto2").style.display = "none";'>Clique
+        ocultar o texto!</button>
+    <button type="button" onclick='document.getElementById("meuTexto2").style.display = "block";'>Clique
+        para mostrar o texto!</button><br><br><br>
+    
+    <script>
+        var textos = document.querySelectorAll('.textos p');
+        for (var i = 0; i < textos.length; i++) {
+            textos[i].textContent = i + 1;
+        }
+    </script>
+</body>
+</html>

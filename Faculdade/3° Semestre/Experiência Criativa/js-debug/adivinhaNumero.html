@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+
+    <title>Jogo Adivinhe um número</title>
+
+    <style>
+        html {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        body {
+            width: 70%;
+            max-width: 900px;
+            min-width: 500px;
+            margin: 0 40px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Jogo Adivinhe um número</h1>
+
+    <p>Selecionamos um número aleatório entre <b>1</b> e <b>100</b> </p>
+    <p>Veja se consegue adivinhar em <b>10</b> chances ou menos. </p>
+    <p>Nós lhe diremos se seu palpite está com valor <b>alto</b> ou <b>baixo</b>.</p>
+
+    <div class="form">
+        <label for="campoPalpite">Digite seu palpite: </label>
+        <input type="text" id="campoPalpite" class="campoPalpite">
+        <input type="submit" value="Enviar palpite" class="envioPalpite" onclick="conferirPalpite();" >
+    </div>
+
+    <div class="cjtoResultados">
+        <p class="palpites"></p>
+        <p class="ultimoResultado"></p>
+        <p class="baixoOuAlto"></p>
+    </div>
+
+    <script>
+        // Cria um número aleatório entre 1 e 100
+        var numeroAleatorio = Math.floor(Math.random() * 100) + 1;
+
+        // Cria variáveis ligadas a elementos com as classes indicadas no querySelector,
+        // para ATUALIZAR esses elementos de acordo com as jogadas.
+        var palpites = document.querySelector('.palpites');
+        var ultimoResultado = document.querySelector('.ultimoResultado');
+        var baixoOuAlto = document.querySelector('.baixoOuAlto');
+
+        // Cria variáveis para elementos INPUT com as classes indicadas no querySelector,
+        // para OBTER DADOS desses elementos de acordo com as jogadas. 
+        var envioPalpite = document.querySelector('.envioPalpite');
+        var campoPalpite = document.querySelector('.campoPalpite');
+
+        var contagemPalpites = 1;  // Inicia a contagem dos palpites. Max = 10.
+        var botaoReinicio;
+
+        function conferirPalpite() {
+            var palpiteUsuario = Number(campoPalpite.value);
+            if (contagemPalpites === 1) {
+                palpites.textContent = 'Palpites anteriores: ';
+            }
+            palpites.textContent += palpiteUsuario + ' '; // Informa os números já palpitados.
+
+            if (palpiteUsuario === numeroAleatorio) {
+                ultimoResultado.textContent = 'Parabéns! Você acertou! o Número certo é ' + palpiteUsuario + '!';
+                ultimoResultado.style.backgroundColor = 'lightgreen';
+                baixoOuAlto.textContent = '';
+                configFimDeJogo(); // Chama função que faz o encerramento do jogo.
+            } else if (contagemPalpites === 10) {
+                ultimoResultado.textContent = '!!!FIM DE JOGO!!!';
+                baixoOuAlto.textContent = '';
+                configFimDeJogo(); // Chama função que faz o encerramento do jogo.
+            } else {
+                ultimoResultado.textContent = 'Errado!';
+                ultimoResultado.style.backgroundColor = 'lightcoral';
+                if (palpiteUsuario < numeroAleatorio) {
+                    baixoOuAlto.textContent = 'Seu palpite está BAIXO!';
+                } else if (palpiteUsuario > numeroAleatorio) {
+                    baixoOuAlto.textContent = 'Seu palpite está ALTO!';
+                }
+            }
+
+            contagemPalpites++;
+            campoPalpite.value = '';
+            campoPalpite.focus();
+        }
+
+        function configFimDeJogo() {
+            campoPalpite.disabled = true;  // desabilita campo de INPUT
+            envioPalpite.disabled = true;  // desabilita campo de INPUT
+            botaoReinicio = document.createElement('button');
+            botaoReinicio.textContent = 'Iniciar novo jogo';
+            document.body.appendChild(botaoReinicio);
+            botaoReinicio.addEventListener('click', reiniciarJogo);
+        }
+
+        function reiniciarJogo() {
+            contagemPalpites = 1;
+
+            var reiniciarParas = document.querySelectorAll('.cjtoResultados p');
+            for (var i = 0; i < reiniciarParas.length; i++) {
+                reiniciarParas[i].textContent = '';
+            }
+
+            botaoReinicio.parentNode.removeChild(botaoReinicio);
+
+            campoPalpite.disabled = false;
+            envioPalpite.disabled = false;
+            campoPalpite.value = '';
+            campoPalpite.focus();
+
+            ultimoResultado.style.backgroundColor = 'white';
+
+            numeroAleatorio = Math.floor(Math.random() * 100) + 1;
+        }
+
+    </script>
+</body>
+</html>
