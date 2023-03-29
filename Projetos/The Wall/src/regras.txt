@@ -1,0 +1,9 @@
+Regras Gerais:
+Você pode colocar as bolas em 7 posições, mas só pode colocar 3 bolas
+Se acertarem a pergunta o valor é somado ao total
+Se errarem a pergunta o valor é diminuido do total
+
+Primeira Fase:
+Regras:
+1. Responde 5 perguntas de 2 alternativas
+

@@ -1,0 +1,22 @@
+O usuário tem 10 chances para acertar quem é a personalidade;
+Se o usuário errar todas as chances precisa zerar e falar que ele errou;
+Se o usuário acertar deverá aparecer em quantas tentativas ele acertou;
+Entre uma chance e outra deverá ter um menu onde o usuário escolhe se quer mais dicas ou vai tentar acertar;
+O usuário não pode selecionar o index [0]
+
+
+
+
+
+
+Nome: Ayrton Senna
+1. Foi um grande piloto de F1
+2. Pilotava muito bem na chuva
+3. Foi chamado de Mr. Monaco
+4. Fez 65 poles na carreira na F1
+5. Morou em Mônaco
+6. Seu maior rival era francês
+7. Foi tricampeão da F1
+8. Namorou uma famosa apresentadora da televisão
+9. Fundou um instituto para crianças e adolecentes
+10. Sua vitória favorita foi no país onde nasceu
