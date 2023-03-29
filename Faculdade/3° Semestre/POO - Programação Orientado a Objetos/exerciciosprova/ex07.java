@@ -1,5 +1,5 @@
 package exerciciosprova;
-
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class ex07 {

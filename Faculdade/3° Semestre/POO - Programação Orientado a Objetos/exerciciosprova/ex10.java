@@ -8,7 +8,6 @@ public class ex10 {
         Scanner teclado = new Scanner(System.in);
         int num = teclado.nextInt();
 
-
 //            while (i < 1) {
 //                int f = num * (i - 1);
 //                System.out.println(i);
@@ -16,4 +15,5 @@ public class ex10 {
 
         }
     }
+
 
