@@ -1,35 +1,9 @@
-O usuário tem 10 chances para acertar quem é a personalidade;
+O usuário tem 10 chances para acertar quem é a personalidade; // Ok
 Se o usuário errar todas as chances precisa zerar e falar que ele errou;
 Se o usuário acertar deverá aparecer em quantas tentativas ele acertou;
 Entre uma chance e outra deverá ter um menu onde o usuário escolhe se quer mais dicas ou vai tentar acertar;
 O usuário não pode selecionar o index [0]
-
-/*
-            Adicionar as escolhas do usuário em
-            para ele não escolher elas de novo
-            */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Adicionar as escolhas do usuário em uma lista para ele não escolher elas de novo
 
 
 Nome: Ayrton Senna
@@ -43,3 +17,9 @@ Nome: Ayrton Senna
 8. Namorou uma famosa apresentadora da televisão
 9. Fundou um instituto para crianças e adolecentes
 10. Sua vitória favorita foi no país onde nasceu
+
+
+if (game1.get(escolhaDica) == game1.get(0)) {
+                    System.out.println("Esse número não existe! Escolha um número de 1 a 10");
+                    return;
+                }

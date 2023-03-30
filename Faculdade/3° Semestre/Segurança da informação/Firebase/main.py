@@ -22,3 +22,7 @@ senha = input("Senha: ")
 
 usuario = auth.create_user_with_email_and_password(email, senha)
 print("Email e senha criados com Sucesso! Token", usuario)
+
+login = auth.sign_in_with_email_and_password(email, senha)
+auth.send_email_verification(login['idToken'])
+print("Concluido")

@@ -17,9 +17,14 @@ firebase = pyrebase.initialize_app(firebaseConfig);
 # Cria o usuário
 auth = firebase.auth()
 
-email = input("Email: ")
-senha = input("Senha: ")
+while True:
+  email = input("Email: ")
+  senha = input("Senha: ")
+  try:
+    login = auth.sign_in_with_email_and_password(email, senha)
+    auth.send_email_verification(login['idToken'])
+    print("Bem vindo, usuário!")
+  except:
+    print("Login ou senha incorretos!")
 
-decoded_token = auth.verify_id_token(login)
-uid = decoded_token['uid']
-print("Concluido")
+

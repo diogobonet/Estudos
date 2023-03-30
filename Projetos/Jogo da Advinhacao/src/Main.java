@@ -21,28 +21,7 @@ public class Main {
         int chances = 10;
 
         while (chances <= 10 & chances > 0) {
-            ArrayList<Integer> escolhas = new ArrayList<Integer>();
-            Random gerador = new Random();
-            for (int i = 0; i--) {
-                System.out.print("Escolha uma dica: ");
-                int escolhaDica = teclado.nextInt();
-
-                if (game1.get(escolhaDica) == game1.get(0)) {
-                    System.out.println("Esse número não existe! Escolha um número de 1 a 10");
-                    return;
-                }
-
-                String c = game1.get(escolhaDica);
-                System.out.println(c);
-            }
-
-
-//            String chute = teclado.next();
-
-//            if (chute != game1.get(0)) {
-//                escolhaDica -= 1;
-//            }
-
+            Jogo.menuGame();
         }
     }
 }
