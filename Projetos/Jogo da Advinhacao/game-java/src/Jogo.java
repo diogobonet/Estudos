@@ -18,7 +18,6 @@ public class Jogo {
 
             switch (opcao) {
                 case 1: {
-                    dica();
                     break;
                 }
 

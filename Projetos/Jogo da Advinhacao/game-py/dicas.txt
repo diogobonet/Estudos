@@ -1,0 +1,8 @@
+O usuário tem 10 chances para acertar quem é a personalidade; // Ok
+Se o usuário errar todas as chances precisa zerar e falar que ele errou;
+Se o usuário acertar deverá aparecer em quantas tentativas ele acertou;
+Entre uma chance e outra deverá ter um menu onde o usuário escolhe se quer mais dicas ou vai tentar acertar;
+O usuário não pode selecionar o index [0]
+Adicionar as escolhas do usuário em uma lista para ele não escolher elas de novo
+
+se chute for diferente do index nome do dicionario -1 chance
