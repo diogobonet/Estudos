@@ -23,9 +23,9 @@ O jogo se trata em o jogador tentar acertar quem é a personalidade de acordo co
 - [x] Adicionar cor ao terminal (ATT 1.1)
 - [x] Correção de bugs (ATT 1.1)
 - [x] Randomizar as dicas (ATT 1.1)
-- [] Caso o usuário digite errado o nome da personalidade será contada como acerto
-- [] Mais personalidades
-- [] Sistema de dificuldade de personalidades
-- [] Rankeamento de pontos
-- [] Cadastro e Login (com banco de dados)
-- [] Cadastrar personalidades
+- [ ] Caso o usuário digite errado o nome da personalidade será contada como acerto
+- [ ] Mais personalidades
+- [ ] Sistema de dificuldade de personalidades
+- [ ] Rankeamento de pontos
+- [ ] Cadastro e Login (com banco de dados)
+- [ ] Cadastrar personalidades
