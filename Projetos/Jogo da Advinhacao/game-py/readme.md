@@ -15,17 +15,24 @@ O jogo se trata em o jogador tentar acertar quem é a personalidade de acordo co
 # [1.0]
 
 - Implantação básica do jogo
-- Apenas duas personalidades
+- Apenas três personalidades
 - Tratamento de erros básicos
+- Bugs a serem resolvidos ainda! Jogo em fase ***BETA***!
+
+# [1.1] BETA
+
+- Adicionado cores ao terminal
+- Adicionado novas personalidades
+- Funcionalidade de continuar jogando retirada. Após o final do jogo, a aplicação retorna ao MENU (-BUG)
 - Bugs a serem resolvidos ainda! Jogo em fase ***BETA***!
 
 ## Futuras atualizações
 - [x] Adicionar cor ao terminal (ATT 1.1)
 - [x] Correção de bugs (ATT 1.1)
 - [x] Randomizar as dicas (ATT 1.1)
-- [] Caso o usuário digite errado o nome da personalidade será contada como acerto
-- [] Mais personalidades
-- [] Sistema de dificuldade de personalidades
-- [] Rankeamento de pontos
-- [] Cadastro e Login (com banco de dados)
-- [] Cadastrar personalidades
+- [x] Mais personalidades (ATT 1.1)
+- [ ] Caso o usuário digite errado o nome da personalidade será contada como acerto
+- [ ] Sistema de dificuldade de personalidades
+- [ ] Rankeamento de pontos
+- [ ] Cadastro e Login (com banco de dados)
+- [ ] Cadastrar personalidades
