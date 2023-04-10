@@ -5,7 +5,7 @@ import random
 import sys
 
 chance = 10
-personalidade = random.choice([dicperson.pessoa1, dicperson.pessoa2, dicperson.pessoa3, ...])
+personalidade = random.choice([dicperson.pessoa1, dicperson.pessoa2, dicperson.pessoa3, dicperson.pessoa4, ...])
 
 RESET = "\033[0m"
 RED = "\033[31m"

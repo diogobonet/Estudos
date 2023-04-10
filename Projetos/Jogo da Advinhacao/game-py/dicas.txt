@@ -8,7 +8,6 @@ Adicionar as escolhas do usuário em uma lista para ele não escolher elas de no
 se chute for diferente do index nome do dicionario -1 chance
 
 Personalidades:
-John Lennon
 Freddie Mercury
 Neymar Junior
 Lionel Messi
