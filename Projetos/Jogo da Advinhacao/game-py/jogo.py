@@ -3,6 +3,7 @@ from menu import menuprincipal
 import dicperson
 import random
 import sys
+import time
 
 chance = 10
 personalidade = random.choice([dicperson.pessoa1, dicperson.pessoa2, dicperson.pessoa3, dicperson.pessoa4, ...])
@@ -15,13 +16,16 @@ BLUE = "\033[34m"
 
 def game(chance):
     dica = input("Escolha um número de 1 a 10 para a dica -> ")
+    nome = personalidade["nome"]
     dicasPegas = {} # Lista para armazenar as dicas já pegas
     if dica in dicasPegas:
         print("Você já pegou essa dica! Pegue outra!")
         return
+    if (dica == nome):
+        print("Erro! Para digitar um nome selecione a opção [1]")
+        return
     else:
         for _ in range(10):
-            nome = personalidade["nome"]
             if chance <= 10 and chance > 0:
                 returnDica = personalidade.get(dica)
                 print(f"Dica [{dica}]: ", returnDica)
@@ -53,6 +57,7 @@ def chute(chance):
     if chute == nome:
         print(GREEN + "Parabéns! Você acertou!")
         print(f"A personalidade era [{nome}]" + RESET)
+        time.sleep(5)
         return menu.menuprincipal()
 
 
