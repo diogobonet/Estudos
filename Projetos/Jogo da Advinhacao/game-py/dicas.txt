@@ -6,3 +6,10 @@ O usuário não pode selecionar o index [0]
 Adicionar as escolhas do usuário em uma lista para ele não escolher elas de novo
 
 se chute for diferente do index nome do dicionario -1 chance
+
+Personalidades:
+John Lennon
+Freddie Mercury
+Neymar Junior
+Lionel Messi
+Will Smith
