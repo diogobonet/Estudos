@@ -4,85 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b835ce27-c8d1-4d95-a5cb-52ffb07d1d91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Projetos/Jogo da Advinhacao/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/Bd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/Delete.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/Disciplina.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/Edit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/IE_favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/Imagem.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/LivroMath.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/Logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/Professor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/ProfessorDados.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/Quadro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/Todos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/Turma.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/pessoa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/pessoa1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/pessoa2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/pessoa3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/pessoa4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/pessoa5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/pessoa6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/pessoa7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/pessoa8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/pessoa9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/Imagens/processando.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/bd/conectaBD.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/bd/i_ensino.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/cadastro.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/css/customize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/css/w3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/discAtualizar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/discAtualizar_exe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/discExcluir.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/discExcluir_exe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/discIncluir.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/discIncluir_exe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/discListar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/disciplina.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/geral/menu.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/geral/menuPerfilProf.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/geral/rodape.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/geral/sobre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/js/myScript.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/logout.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/profAtualizar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/profAtualizar_exe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/profExcluir.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/profExcluir_exe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/profIncluir.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/profIncluir_exe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/profListar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/professor.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/professor/cadProf.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/professor/cadProf_exe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/professor/perfilProf.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/professor/turmasProfListar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/turma.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/turmaAtualizar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/turmaAtualizar_exe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/turmaExcluir.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/turmaExcluir_exe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/turmaIncluir.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/turmaIncluir_exe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/turmaListar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/Experiência Criativa/SiteSample2023/verifica_login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/POO - Programação Orientado a Objetos/Restaurante/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/POO - Programação Orientado a Objetos/Restaurante/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/POO - Programação Orientado a Objetos/Restaurante/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/POO - Programação Orientado a Objetos/Restaurante/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/POO - Programação Orientado a Objetos/Restaurante/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/POO - Programação Orientado a Objetos/Restaurante/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/POO - Programação Orientado a Objetos/Restaurante/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/POO - Programação Orientado a Objetos/Restaurante/Garçom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Faculdade/3° Semestre/POO - Programação Orientado a Objetos/Restaurante/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Projetos/Jogo da Advinhacao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projetos/Jogo da Advinhacao/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b835ce27-c8d1-4d95-a5cb-52ffb07d1d91" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,6 +141,7 @@
       <workItem from="1681924749014" duration="765000" />
       <workItem from="1681948771353" duration="11000" />
       <workItem from="1681949737198" duration="1000" />
+      <workItem from="1682370318485" duration="448000" />
     </task>
     <servers />
   </component>
