@@ -18,7 +18,7 @@ const imprimirResultado = function (nota) {
             break
     }
 }
-
+dadadadadadad
 
 console.log("Oiii")
 imprimirResultado(9)
