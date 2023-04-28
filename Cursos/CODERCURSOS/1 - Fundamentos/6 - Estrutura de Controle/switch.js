@@ -17,10 +17,16 @@ const imprimirResultado = function (nota) {
             console.log("Nota inválida!")
             break
     }
+<<<<<<< HEAD
 }
 dadadadadadad
 
 console.log("Oiii")
+=======
+    
+}
+
+>>>>>>> f0aca83fdb5241faf61e3cdf387a151e31f623ff
 imprimirResultado(9)
 imprimirResultado(6.5)
 imprimirResultado(3)

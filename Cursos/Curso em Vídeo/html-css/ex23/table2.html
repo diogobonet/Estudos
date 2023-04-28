@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        body {
+            font-family: Arial;
+        }
+
+        caption {
+            padding: 20px;
+            background-color: lightgray;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        table {
+            border: 1px solid black;
+            width: 400px;
+            border-collapse: collapse;
+            
+        }
+
+        thead {
+            background-color: gray;
+            padding: px;
+        }
+
+        thead th {
+            position: sticky;
+            top: 0;
+            background-color: gray;
+            padding: 10px;
+        }
+
+        tbody > tr:nth-child(2n){
+            background-color: lightgray;
+        }
+
+        tfoot {
+            padding: 12px;
+            background-color: gray;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        td.num {
+            text-align: right;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>tabelas grandes</h1>
+    <table>
+        <caption>População das unidades federativas</caption>
+        <thead>
+            <th scope="col">Estado</th>
+            <th scope="col">População</th>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>São Paulo</td>
+                <td class="num">45.919.049</td>
+            </tr>
+
+            <tr>
+                <td>Minas Gerais</td>
+                <td class="num">21.919.049</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="num">17 524 943</td>
+            </tr>
+
+            <tr>
+                <td>Santa Catarina</td>
+                <td class="num">17 524 943</td>
+            </tr>
+
+            <tr>
+                <td>Paraná</td>
+                <td class="num">17 524 943</td>
+            </tr>
+
+            <tr>
+                <td>Paraná</td>
+                <td class="num">17 524 943</td>
+            </tr>
+
+            <tr>
+                <td>Paraná</td>
+                <td class="num">17 524 943</td>
+            </tr>
+            <tr>
+                <td>Paraná</td>
+                <td class="num">17 524 943</td>
+            </tr>
+            <tr>
+                <td>Paraná</td>
+                <td class="num">17 524 943</td>
+            </tr>
+            <tr>
+                <td>Paraná</td>
+                <td class="num">17 524 943</td>
+            </tr>
+            <tr>
+                <td>Paraná</td>
+                <td class="num">17 524 943</td>
+            </tr>
+            <tr>
+                <td>Paraná</td>
+                <td class="num">17 524 943</td>
+            </tr>
+            <tr>
+                <td>Paraná</td>
+                <td class="num">17 524 943</td>
+            </tr>
+            <tr>
+                <td>Paraná</td>
+                <td class="num">17 524 943</td>
+            </tr>
+            <tr>
+                <td>Paraná</td>
+                <td class="num">17 524 943</td>
+            </tr>
+
+        </tbody>
+
+        <tfoot>
+            <th scope="row">Total habitantes</th>
+            <td scope="row">50000000</td>
+        </tfoot>
+    </table>
+</body>
+</html>

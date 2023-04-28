@@ -36,3 +36,4 @@ O jogo se trata em o jogador tentar acertar quem é a personalidade de acordo co
 - [ ] Rankeamento de pontos
 - [ ] Cadastro e Login (com banco de dados)
 - [ ] Cadastrar personalidades
+
