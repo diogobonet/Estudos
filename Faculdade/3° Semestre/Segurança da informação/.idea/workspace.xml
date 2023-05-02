@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f4089ae-1d41-4aea-b3f2-c0479bf89a39" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/html-css/ex021d/desafio.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/html-css/ex021d/desafio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projetos/Jogo da Advinhacao/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projetos/Jogo da Advinhacao/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projetos/Jogo da Advinhacao/game-py/dicperson.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projetos/Jogo da Advinhacao/game-py/dicperson.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Permission/permissao.txt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2OhIlX3JfBRQKP1y0xLmdzHo9XV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Features",
+    "last_opened_file_path": "C:/Users/diogo/OneDrive/Documentos/GitHub/WEB-Project/Faculdade/3° Semestre/Segurança da informação",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f4089ae-1d41-4aea-b3f2-c0479bf89a39" name="Changes" comment="" />
+      <created>1682006537469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682006537469</updated>
+      <workItem from="1682006538520" duration="430000" />
+      <workItem from="1682642657550" duration="126000" />
+      <workItem from="1682959395330" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Segurança_da_informação$permissao.coverage" NAME="permissao Coverage Results" MODIFIED="1682006737166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Permission" />
+  </component>
+</project>

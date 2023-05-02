@@ -17,9 +17,8 @@ const imprimirResultado = function (nota) {
             console.log("Nota inválida!")
             break
     }
-    
-}
 
+}
 imprimirResultado(9)
 imprimirResultado(6.5)
 imprimirResultado(3)
