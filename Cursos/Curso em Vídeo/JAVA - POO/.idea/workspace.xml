@@ -20,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,6 +41,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/diogo/OneDrive/Documentos/GitHub/WEB-Project/Cursos/Curso em Vídeo/JAVA - POO&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -58,7 +60,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.aula01">
     <configuration name="PBL2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Faculdade.Aula01.Exercicios.PBL2" />
       <module name="WEB-Project" />
@@ -142,6 +144,12 @@
       <workItem from="1681948771353" duration="11000" />
       <workItem from="1681949737198" duration="1000" />
       <workItem from="1682370318485" duration="448000" />
+      <workItem from="1683568048540" duration="663000" />
+      <workItem from="1683568877267" duration="1819000" />
+      <workItem from="1683571219373" duration="165000" />
+      <workItem from="1683571399225" duration="1178000" />
+      <workItem from="1683653889047" duration="115000" />
+      <workItem from="1683654179455" duration="60000" />
     </task>
     <servers />
   </component>

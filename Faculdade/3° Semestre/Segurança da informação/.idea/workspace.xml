@@ -5,9 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f4089ae-1d41-4aea-b3f2-c0479bf89a39" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/html-css/ex021d/desafio.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/html-css/ex021d/desafio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Projetos/Jogo da Advinhacao/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projetos/Jogo da Advinhacao/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Projetos/Jogo da Advinhacao/game-py/dicperson.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projetos/Jogo da Advinhacao/game-py/dicperson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rsa-crypto/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Aula02/Aula02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Aula02/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Calculos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/Casa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/Endereço.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/Proprietario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL1.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Tipos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/aula01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/matriz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/output.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/vetores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/Restaurante.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/Garçom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/out/production/POO/exerciciosprova/ex07.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/out/production/POO/exerciciosprova/ex07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +64,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Features",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/diogo/OneDrive/Documentos/GitHub/WEB-Project/Faculdade/3° Semestre/Segurança da informação",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "discord-application",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -57,6 +89,8 @@
       <workItem from="1682006538520" duration="430000" />
       <workItem from="1682642657550" duration="126000" />
       <workItem from="1682959395330" duration="62000" />
+      <workItem from="1684237475831" duration="623000" />
+      <workItem from="1684238130771" duration="286000" />
     </task>
     <servers />
   </component>
