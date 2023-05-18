@@ -1,4 +1,4 @@
-package Aula07;
+package Aula08;
 
 public class Lutador {
     //Atributos

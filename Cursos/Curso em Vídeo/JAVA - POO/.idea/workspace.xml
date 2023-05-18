@@ -60,7 +60,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.aula01">
+  <component name="RunManager">
     <configuration name="PBL2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Faculdade.Aula01.Exercicios.PBL2" />
       <module name="WEB-Project" />
@@ -150,6 +150,7 @@
       <workItem from="1683571399225" duration="1178000" />
       <workItem from="1683653889047" duration="115000" />
       <workItem from="1683654179455" duration="60000" />
+      <workItem from="1684427655878" duration="732000" />
     </task>
     <servers />
   </component>
