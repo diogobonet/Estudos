@@ -5,39 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f4089ae-1d41-4aea-b3f2-c0479bf89a39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rsa-crypto/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Aula02/Aula02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Aula02/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Calculos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/Casa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/Endereço.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/Proprietario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/Casa/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL1.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Exercicios/PBL2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/Tipos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/aula01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/matriz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/output.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/out/production/WEB-Project/Faculdade/Aula01/vetores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/Restaurante.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/Garçom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/Restaurante/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/out/production/POO/exerciciosprova/ex07.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POO - Programação Orientado a Objetos/out/production/POO/exerciciosprova/ex07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Segurança da informação.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Segurança da informação.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsa-crypto/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projetos/marketplace-working/landing-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projetos/marketplace-working/landing-page/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,22 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/diogo/OneDrive/Documentos/GitHub/WEB-Project/Faculdade/3° Semestre/Segurança da informação",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "discord-application",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diogo/OneDrive/Documentos/GitHub/WEB-Project/Faculdade/3° Semestre/Segurança da informação&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -91,6 +64,10 @@
       <workItem from="1682959395330" duration="62000" />
       <workItem from="1684237475831" duration="623000" />
       <workItem from="1684238130771" duration="286000" />
+      <workItem from="1687385084571" duration="25000" />
+      <workItem from="1687385119970" duration="474000" />
+      <workItem from="1687385714901" duration="846000" />
+      <workItem from="1687386581311" duration="3320000" />
     </task>
     <servers />
   </component>
@@ -99,5 +76,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Segurança_da_informação$permissao.coverage" NAME="permissao Coverage Results" MODIFIED="1682006737166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Permission" />
+    <SUITE FILE_PATH="coverage/Segurança_da_informação$CriptAES.coverage" NAME="CriptAES Coverage Results" MODIFIED="1687389654301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rsa-crypto" />
+    <SUITE FILE_PATH="coverage/Segurança_da_informação$CritpRSA.coverage" NAME="CritpRSA Coverage Results" MODIFIED="1687389179787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rsa-crypto" />
   </component>
 </project>
