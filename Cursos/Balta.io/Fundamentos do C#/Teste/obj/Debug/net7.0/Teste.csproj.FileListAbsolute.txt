@@ -1,0 +1,15 @@
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\bin\Debug\net7.0\Teste.exe
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\bin\Debug\net7.0\Teste.deps.json
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\bin\Debug\net7.0\Teste.runtimeconfig.json
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\bin\Debug\net7.0\Teste.dll
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\bin\Debug\net7.0\Teste.pdb
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\obj\Debug\net7.0\Teste.csproj.AssemblyReference.cache
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\obj\Debug\net7.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\obj\Debug\net7.0\Teste.AssemblyInfoInputs.cache
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\obj\Debug\net7.0\Teste.AssemblyInfo.cs
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\obj\Debug\net7.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\obj\Debug\net7.0\Teste.dll
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\obj\Debug\net7.0\refint\Teste.dll
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\obj\Debug\net7.0\Teste.pdb
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\obj\Debug\net7.0\Teste.genruntimeconfig.cache
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Teste\obj\Debug\net7.0\ref\Teste.dll
