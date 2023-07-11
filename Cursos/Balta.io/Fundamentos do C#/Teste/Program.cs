@@ -152,8 +152,56 @@ namespace Teste
 
             int inteiro25 = Convert.ToInt32("100");
 
-            /* AULA DE CONVERSÕES */
+            /* Operadores aritméticos 
             
+            Soma => +
+            Subtração => -
+            Multiplicação => *
+            Divisão => /
+            
+            */
+
+            /* Operadores de atribuição
+            
+            x = 0;
+            x += 5;
+            x -= 1;
+            x *= 10;
+            x /= 2;
+
+            */
+
+            /*
+            Operadores de Comparação
+            Dá pra comparar qualquer tipo de dado (Numero, string, byte), só retorna booleano
+
+            1. Igual: ==
+            2. Diferente: !=
+            3. Maior que: >
+            4. Menor que <
+            5. Maior ou igual que: >=
+            6. Menor igual que: <=         
+            */
+
+            /*
+            Operadores lógicos 
+            Usado em operações condicionais, retorna sempre verdadeiro ou falso
+            E - and
+            Representado por: &&
+
+            Ou - or
+            Representado por: ||
+
+            Negação - not
+            Representado por: !
+            */
+
+            /* Estruturas condicionais
+            
+            if -> Utilizado para tomada de decisões
+            else if ->
+            else 
+            */
         }
     }
 }
