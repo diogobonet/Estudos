@@ -78,6 +78,82 @@ namespace Teste
             /*
             String armazena uma cadeia de caracteres e tem que ser definida com aspas duplas
             */
+            string texto = "Olá, Mundo!";
+
+            /* VAR 
+
+            É possivel criar uma variavel sem definir especificamente o tipo de dados para a variavel mas assim que for definida um algum dado passado, ele assume o tipo do dado. E não é possivel mudar depois.
+            
+            */
+
+            var idade3 = 25;
+            int idade2 = 25;
+
+            /* OBJECT 
+            É um tipo qualquer pode ser qualquer coisa.
+            */
+
+            object velocidade;
+            velocidade = 5;
+            velocidade = 5.5;
+
+            /* NULLABLE TYPES
+            void = vazio (significado)
+
+            null = também é vazio, diferente de 0 ou uma string vazia. utilizar null pode dar erro no código
+            
+            */
+
+            int? vazio = null;
+            Console.WriteLine(vazio);
+
+            /* ALIAS
+            int idade = 25; // Alias
+            Int32 idade = 25; // Tipo
+            
+            */
+
+            /*
+            Conversão de Dados
+
+            =====
+            Conversão Implicita
+            Não precisa informar o tipo de dados que serão convertidos
+
+            Conversão explicita
+            Informar o tipo de dados que serão convertidos
+            
+            */
+
+            // Implicito
+            int valor = 25;
+            float outro = 25.8f;
+
+            outro = valor;
+
+            Console.WriteLine(outro);
+
+            // Explicito
+            int inteiro = 100;
+            uint int22 = (uint)inteiro;
+
+            /*
+            Parse
+            É usado para converter um caractere ou uma string para um tipo qualquer, caso haja compatibilidade
+            */
+
+            int inteiro23 = int.Parse("100");
+            Console.WriteLine(inteiro23);
+
+            /*
+            Convert
+            É uma classe/objeto que permite a gente converter uma string para um tipo
+            */
+
+            int inteiro25 = Convert.ToInt32("100");
+
+            /* AULA DE CONVERSÕES */
+            
         }
     }
 }
