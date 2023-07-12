@@ -202,6 +202,94 @@ namespace Teste
             else if ->
             else 
             */
+
+            if (25 == 50) {
+                Console.WriteLine("É igual");
+            }
+
+            else if (25 != 80) {
+                Console.WriteLine("É diferente!");
+            }
+
+            else {
+                Console.WriteLine("Entrou no ELSE!");
+            }
+
+            /*
+            Switch
+            É utilizada quando tem muitas decisões, executado em cascata, para manualmente a execução com o comando "break".
+            Possui uma execução padrão, chamada de "default"
+            */
+
+            int valornormal3 = 3;
+            switch (valornormal3) {
+                case 1: Console.WriteLine("1"); break;
+                case 2: Console.WriteLine("2"); break;
+                default: Console.WriteLine("Padrão"); break;
+            }
+
+            /*
+            Laços de Repetição (FOR)
+            Executa uma determinada ação várias vezes
+            O for exige 3 parametros:
+            Contador
+            Condição
+            Incremento
+            */
+
+            int i;
+
+            // Conta de 0 a 5
+            for (i = 0; i <= 5; i++) {
+                Console.WriteLine(i);
+            }
+
+            // Conta de 1 a 5
+            for (i = 1; i <= 5; i++) {
+                Console.WriteLine(i);
+            }
+
+            // Conta de 0 a 4
+            for (i = 0; i < 5; i++) {
+                Console.WriteLine(i);
+            }
+
+            // Conta de 5 a 0
+            for (i = 5; i <= 0; i--) {
+                Console.WriteLine(i);
+            }
+
+            /*
+             Laços de Repetição (While)
+             Enquanto uma condição for verdadeira, exige apenas uma condição, e checa a condição ANTES de executar
+             */
+
+            var valorinteiro27 = 0;
+            while (valorinteiro27 <= 5)
+            {
+                Console.WriteLine(valorinteiro27);
+                valorinteiro27++;
+            }
+
+            /*
+             Laços de Repetição "Do"
+             Realiza uma ação enquanto...
+             Exige apenas uma condição no while, e checa a condição DEPOIS de executar
+             */
+
+            var valorinteiro28 = 0;
+            do
+            {
+              Console.WriteLine(valorinteiro28);
+              valorinteiro28++;
+            } while (valorinteiro28 < 5);
+
+            /*
+             Funções ou Métodos
+             Possui um retorno, um nome e parâmetros
+             Começam sempre com maiúscula
+            */
+
         }
     }
 }
