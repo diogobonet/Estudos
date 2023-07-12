@@ -290,6 +290,79 @@ namespace Teste
              Começam sempre com maiúscula
             */
 
+            MinhaFuncao("C# é brabo");
+            string nome = RetornaNome("Diogo", "Sobezak");
+            Console.WriteLine(nome);
+            string pessoa = RetornaPessoa("Diogo", "Sobezak", 18);
+
+            /*
+            Tipos de Referencias e Tipos de Valor
+
+            A memória é dividida em duas partes Heap e Stack;
+            1. Heap armazena os dados
+            2. Stack armazena as referencias para esses dados
+
+            Qualquer tipo no .NET é tratado como:
+            Tipos de Referencia (ReferenceType)
+            Tipo de Valor (ValueType) -> Armazenam dados em um local da memória chamada Stack
+
+            // ValueType
+            Quando armazenamos um valor, a memória é alocada.
+            
+             */
+
+            /*
+             Structs
+             Tipos de dados estruturados, o esqueleto
+            Para criar novos tipos de dados
+             */
+
+            var product = new Product(1, "Mouse Gamer", 128.75f);
+            Console.WriteLine(product.Id.ToString());
+            Console.WriteLine(product.Title);
+            Console.WriteLine(product.Price);
+            Console.WriteLine(product.PriceInDolar(4.81f));
+        }
+
+        struct Product
+        {
+            // Propriedade
+            public int Id;
+            public string Title;
+            public float Price;
+
+            public Product(int id, string title, float price) {
+                Id = id;
+                Price = price;
+                Title = title;
+                   
+            }
+
+
+            // Métodos
+            public float PriceInDolar(float dolar)
+            {
+                return Price * dolar;
+            }
+        }
+
+        static void MinhaFuncao(string parametros)
+        {
+            Console.WriteLine(parametros);
+        }
+
+        static string RetornaNome(string nome, string sobrenome)
+        {
+            return nome + sobrenome;
+        }
+
+        static string RetornaPessoa(
+            string nome,
+            string sobrenome,
+            int idade
+            )
+        {
+            return nome + "" + sobrenome + " tem " + idade.ToString();
         }
     }
 }

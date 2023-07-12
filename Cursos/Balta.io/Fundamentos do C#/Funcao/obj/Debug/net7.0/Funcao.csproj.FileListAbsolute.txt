@@ -1,0 +1,5 @@
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Funcao\obj\Debug\net7.0\Funcao.csproj.AssemblyReference.cache
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Funcao\obj\Debug\net7.0\Funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Funcao\obj\Debug\net7.0\Funcao.AssemblyInfoInputs.cache
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Funcao\obj\Debug\net7.0\Funcao.AssemblyInfo.cs
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Funcao\obj\Debug\net7.0\Funcao.csproj.CoreCompileInputs.cache
