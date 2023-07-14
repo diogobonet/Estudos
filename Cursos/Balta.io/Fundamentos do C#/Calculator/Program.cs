@@ -74,7 +74,6 @@ namespace Calculator
     } 
 }
 
-
 /*
              * Console.
              * Possui várias funções
