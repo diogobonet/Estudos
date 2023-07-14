@@ -1,0 +1,5 @@
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Enums\obj\Release\net7.0\Enums.csproj.AssemblyReference.cache
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Enums\obj\Release\net7.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Enums\obj\Release\net7.0\Enums.AssemblyInfoInputs.cache
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Enums\obj\Release\net7.0\Enums.AssemblyInfo.cs
+C:\Users\diogo.sobezak\Documents\GitHub\Estudos\Cursos\Balta.io\Fundamentos do C#\Enums\obj\Release\net7.0\Enums.csproj.CoreCompileInputs.cache

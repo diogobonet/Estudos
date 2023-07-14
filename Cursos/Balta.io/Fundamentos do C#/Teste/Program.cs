@@ -317,11 +317,23 @@ namespace Teste
             Para criar novos tipos de dados
              */
 
-            var product = new Product(1, "Mouse Gamer", 128.75f);
+            var product = new Product(1, "Mouse Gamer", 128.75f, EProductType.Product);
+            var manutencao = new Product(2, "Elétrica", 500.00f, EProductType.Service);
             Console.WriteLine(product.Id.ToString());
             Console.WriteLine(product.Title);
             Console.WriteLine(product.Price);
             Console.WriteLine(product.PriceInDolar(4.81f));
+
+            Console.WriteLine("===========");
+            Console.WriteLine(manutencao.Id.ToString());
+            Console.WriteLine(manutencao.Title);
+            Console.WriteLine(manutencao.Price);
+            Console.WriteLine(manutencao.Tipo);
+
+            /*
+             Enums
+            Os enumeradores são inteiros que fornecem uma melhor visualização no código
+             */
         }
 
         struct Product
@@ -330,20 +342,26 @@ namespace Teste
             public int Id;
             public string Title;
             public float Price;
+            public EProductType Tipo;
 
-            public Product(int id, string title, float price) {
+            public Product(int id, string title, float price, EProductType type) {
                 Id = id;
                 Price = price;
                 Title = title;
-                   
+                Tipo = type;
             }
-
 
             // Métodos
             public float PriceInDolar(float dolar)
             {
                 return Price * dolar;
             }
+        }
+
+        enum EProductType
+        {
+            Product = 1,
+            Service = 2
         }
 
         static void MinhaFuncao(string parametros)
