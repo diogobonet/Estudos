@@ -334,6 +334,13 @@ namespace Teste
              Enums
             Os enumeradores são inteiros que fornecem uma melhor visualização no código
              */
+
+            /*
+             * Guids
+             * Global Unique Identifier
+             */
+
+            var id = Guid.NewGuid();
         }
 
         struct Product
