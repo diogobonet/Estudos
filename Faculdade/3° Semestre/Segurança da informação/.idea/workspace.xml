@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f4089ae-1d41-4aea-b3f2-c0479bf89a39" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Cursos/Curso em Vídeo/JAVA - POO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Segurança da informação.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Segurança da informação.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rsa-crypto/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Projetos/marketplace-working/landing-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projetos/marketplace-working/landing-page/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +46,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diogo\OneDrive\Documentos\GitHub\WEB-Project\Faculdade\3° Semestre\Segurança da informação\rsa-crypto" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +67,7 @@
       <workItem from="1687385084571" duration="25000" />
       <workItem from="1687385119970" duration="474000" />
       <workItem from="1687385714901" duration="846000" />
-      <workItem from="1687386581311" duration="3320000" />
+      <workItem from="1687386581311" duration="3883000" />
     </task>
     <servers />
   </component>

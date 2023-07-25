@@ -17,9 +17,9 @@ public class Main{
         BufferedImage ImagemResultado = new BufferedImage(ImagemOriginal.getWidth(), ImagemOriginal.getHeight(), BufferedImage.TYPE_INT_RGB);
 
         long startTime = System.currentTimeMillis();
-        //recolorirUmaThread(ImagemOriginal, ImagemResultado);
-        int numberOfThreads = 30;
-        recolorMultithreaded(ImagemOriginal, ImagemResultado, numberOfThreads);
+        recolorirUmaThread(ImagemOriginal, ImagemResultado);
+        //int numberOfThreads = 9;
+        //recolorMultithreaded(ImagemOriginal, ImagemResultado, numberOfThreads);
         //recolorFracionado(ImagemOriginal, ImagemResultado, numberOfThreads);
    
         long endTime = System.currentTimeMillis();
