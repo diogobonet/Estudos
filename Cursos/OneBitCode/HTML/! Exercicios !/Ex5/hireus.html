@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpaceX | Hire US</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/SpaceX_logo_black.svg/200px-SpaceX_logo_black.svg.png" alt="Logo da SPACEX">
+            <span>-|</span>
+            <a href="index.html">Home</a>
+            <span>|</span>
+            <a href="spaceships.html">Spaceships</a>
+        </nav>
+        <hr>
+    </header>
+
+    <main>
+        <section>
+            <h2>Hire Us Now</h2>
+            <p>Leave a message to request one of our services!</p>
+        </section>
+
+        <form action="">
+            <section>
+                <label for="n">Name:</label>
+                <input type="text" id="n" name="n">
+                <span>-</span>
+                <label for="e">Email:</label>
+                <input type="email" name="e" id="e">
+            </section>
+
+            <br>
+            <section>
+                <label for="s">Spaceships:</label>
+                <select name="s" id="s">
+                    <option value="Falcon 9">Falcon 9</option>
+                    <option value="Falcon Heavy">Falcon Heavy</option>
+                </select>
+                <span>|</span>
+                <label for="service">Type of Service:</label>
+                <input type="search" name="service" id="service" list="services">
+                <datalist id="services">
+                    <option value="Nam quis">Nam quis</option>
+                    <option value="Nam ipsum">Nam ipsum</option>
+                    <option value="Nam dif">Nam dif</option>
+                </datalist>
+            </section>
+            <button type="submit">Submit</button>
+        </form>
+    </main>
+</body>
+</html>
