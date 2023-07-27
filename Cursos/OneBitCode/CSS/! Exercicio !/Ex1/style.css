@@ -1,0 +1,21 @@
+body {
+    background-color: #30305a;
+    color: white;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+#days-of-week h3 {
+    color: rgb(226, 226, 102);
+}
+
+body div#activities h2 {
+    background-color: yellow;
+    color: black;
+}
+
+#astronomy-class {
+    color: red;
+}
