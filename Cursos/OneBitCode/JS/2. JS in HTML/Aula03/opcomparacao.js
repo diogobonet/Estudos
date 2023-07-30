@@ -8,6 +8,7 @@ NO JS EXISTEM VÁRIOS OPERADORES DE COMPARAÇÃO
 
 >, >=, <, <=  // MAIOR, MAIOR OU IGUAL, MENOR, MENOR OU IGUAL
 
+RETORNAM VALOR BOOLEANO
 */
 
 // Operadores de Igualdade
@@ -39,5 +40,18 @@ console.log("=========")
 comp1 = 10 != 10
 console.log(comp1) // False
 
+comp1 = 10 != '10'
+console.log(comp1) // False
+
 comp1 = 10 != 11
 console.log(comp1) // True
+
+comp1 = 10 !== "10"
+console.log(comp1) // True
+
+// Maior ou menor
+comp1 = 10 < 11 // True
+
+comp1 = 10 > 11 // False
+
+comp1 = 10 >= 10 // True
