@@ -25,9 +25,10 @@ public class Program {
         String nome = scanner.next();
         Cardapio();
         System.out.println(nome + ", o que você deseja?");
-        int opt = scanner.nextInt();
+        int opt = scanner.nextInt();;
         while (opt != 0) {
-
+            System.out.println(nome + ", o que você deseja?");
+            return;
         }
     }
 
