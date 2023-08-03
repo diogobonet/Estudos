@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f4089ae-1d41-4aea-b3f2-c0479bf89a39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Projetos/discord-bot/bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projetos/discord-bot/key.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +68,7 @@
       <workItem from="1687385119970" duration="474000" />
       <workItem from="1687385714901" duration="846000" />
       <workItem from="1687386581311" duration="3883000" />
-      <workItem from="1691021204903" duration="2267000" />
+      <workItem from="1691021204903" duration="2289000" />
     </task>
     <servers />
   </component>
