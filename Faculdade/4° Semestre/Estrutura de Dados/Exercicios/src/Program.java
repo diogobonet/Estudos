@@ -38,8 +38,6 @@ public class Program {
                     case 1:
                         produtos.add(0, "Prato da Casa");
                         valor.add(0, 49.90f);
-                        System.out.println(produtos);
-                        System.out.println(valor);
                         break;
                     case 2:
                         produtos.add(0, "Macarronada ào Molho Sugo");
