@@ -26,11 +26,12 @@ O jogo se trata em o jogador tentar acertar quem é a personalidade de acordo co
 - Funcionalidade de continuar jogando retirada. Após o final do jogo, a aplicação retorna ao MENU (-BUG)
 - Bugs a serem resolvidos ainda! Jogo em fase ***BETA***!
 
+# [1.2] BETA
+
+- Adicionado novas celebridades!
+- Bugs Fix
+
 ## Futuras atualizações
-- [x] Adicionar cor ao terminal (ATT 1.1)
-- [x] Correção de bugs (ATT 1.1)
-- [x] Randomizar as dicas (ATT 1.1)
-- [x] Mais personalidades (ATT 1.1)
 - [ ] Caso o usuário digite errado o nome da personalidade será contada como acerto
 - [ ] Sistema de dificuldade de personalidades
 - [ ] Rankeamento de pontos

@@ -94,9 +94,10 @@ public class Program {
         var taxaServico = valorFinal * 0.1;
         valorTotal += taxaServico;
         System.out.println("Produtos: " + produtos);
-        System.out.println("Valor dos Produtos:  R$" + valor);
+        System.out.printf("Valor dos Produtos:  R$%.2" + valor);
         System.out.println("Taxa de Serviço: R$" + taxaServico);
         System.out.println("Valor Total: R$" + valorTotal);
+
     }
 }
 

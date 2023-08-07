@@ -57,7 +57,80 @@ pessoa5 = {"1": "É um jogador de futebol",
            "10": "Seu maior sonho é ganhar uma copa do mundo",
            "nome": "Neymar Junior"}
 
-pessoa5 = {"1": "",
+pessoa6 = {
+    "1": "Foi um famoso cantor e compositor.",
+    "2": "Liderou uma das bandas mais icônicas da história do rock.",
+    "3": "Sua voz poderosa cativou audiências em todo o mundo.",
+    "4": "Conhecido por suas performances carismáticas no palco.",
+    "5": "Nasceu em Zanzibar, na Tanzânia.",
+    "6": "Escreveu muitos dos maiores sucessos da banda.",
+    "7": "É considerado um dos maiores vocalistas de todos os tempos.",
+    "8": "Sua música continua sendo amada mesmo após sua morte.",
+    "9": "Interpretou um papel importante no mundo da música dos anos 70 e 80.",
+    "10": "Sua história de vida foi adaptada em um filme biográfico.",
+    "nome": "Freddie Mercury"
+}
+
+pessoa7 = {
+    "1": "Um famoso jogador de futebol argentino.",
+    "2": "Destacou-se desde jovem como um prodígio do esporte.",
+    "3": "Ganhou diversos prêmios e títulos ao longo de sua carreira.",
+    "4": "É conhecido por sua habilidade incrível com a bola.",
+    "5": "Passou a maior parte de sua carreira em um clube espanhol renomado.",
+    "6": "Nasceu em Rosário, Argentina.",
+    "7": "É considerado um dos melhores jogadores de futebol do mundo.",
+    "8": "Sua destreza e velocidade em campo são impressionantes.",
+    "9": "É um exemplo de dedicação e sucesso no mundo esportivo.",
+    "10": "Inspirou muitos jovens a seguirem seus sonhos no futebol.",
+    "nome": "Lionel Messi"
+}
+
+pessoa8 = {
+    "1": "Um famoso ator, rapper e produtor.",
+    "2": "Tornou-se conhecido por seu papel em uma série de TV popular nos anos 90.",
+    "3": "Sua carreira de ator inclui papéis em filmes de grande sucesso.",
+    "4": "Inicialmente ganhou fama como rapper com músicas cativantes.",
+    "5": "Estrelou em várias comédias de sucesso ao longo dos anos.",
+    "6": "Nasceu na Filadélfia, EUA.",
+    "7": "É conhecido por sua personalidade carismática e enérgica.",
+    "8": "Seu talento versátil o levou a receber elogios em várias áreas.",
+    "9": "É um dos atores mais reconhecíveis e queridos de Hollywood.",
+    "10": "Continua sendo uma influência positiva e inspiradora para muitos.",
+    "nome": "Will Smith"
+}
+
+pessoa9 = {
+    "1": "Uma famosa apresentadora de TV, empresária e filantropa.",
+    "2": "Apresentou um talk show de grande sucesso por muitos anos.",
+    "3": "É uma das mulheres mais influentes do mundo.",
+    "4": "Fundou sua própria rede de televisão.",
+    "5": "Nasceu em Kosciusko, Mississippi, EUA.",
+    "6": "É conhecida por seu compromisso com causas sociais e caridade.",
+    "7": "Entrevistou inúmeras celebridades e figuras públicas em seu programa.",
+    "8": "Sua história de superação a tornou uma inspiração para muitos.",
+    "9": "Seu programa focava em temas como autoajuda, saúde e espiritualidade.",
+    "10": "Sua influência vai além da televisão, impactando áreas como literatura e entretenimento.",
+    "nome": "Oprah Winfrey"
+}
+
+pessoa10 = {
+    "1": "Um gênio renascentista conhecido por suas diversas habilidades.",
+    "2": "Foi um pintor, escultor, cientista, matemático e inventor.",
+    "3": "Criou a famosa pintura 'Mona Lisa'.",
+    "4": "Desenvolveu inovações em diversas áreas, da anatomia à aviação.",
+    "5": "Nasceu em Vinci, Itália.",
+    "6": "Suas anotações e rascunhos revelam sua mente curiosa e inovadora.",
+    "7": "É considerado um dos maiores polímatas da história.",
+    "8": "Suas obras de arte e contribuições científicas deixaram um legado duradouro.",
+    "9": "Sua busca pelo conhecimento e experimentação o tornou único em seu tempo.",
+    "10": "Sua genialidade influencia a arte e a ciência até os dias de hoje.",
+    "nome": "Leonardo da Vinci"
+}
+
+
+
+
+pessoaForm = {"1": "",
            "2": "",
            "3": "",
            "4": "",
