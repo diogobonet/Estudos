@@ -11,3 +11,5 @@ const arr = [
 ]
 
 console.log(arr)
+
+console.table(arr)
