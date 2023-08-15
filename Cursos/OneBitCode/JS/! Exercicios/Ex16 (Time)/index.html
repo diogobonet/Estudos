@@ -7,16 +7,28 @@
 </head>
 <body>
     <h1>Escalar um time</h1>
-    <label for="name">Nome:</label>
-    <input type="text" name="nome" id="nome">
-    <br>
-    <label for="position">Posição:</label>
-    <input type="text" name="posicao">
-    <br>
-    <label for="number">Número</label>
-    <input type="number" name="number" value="number-player">
-    <button type="submit" onclick="confirmar()">Escalar</button>
-    <ul id="players"></ul>
+    <p>
+        <h3>Escalar um jogador</h3>
+        <label for="nome">Nome:</label>
+        <input type="text" name="nome" id="nome">
+        <br>
+        <label for="position">Posição:</label>
+        <input type="text" name="position" id="position">
+        <br>
+        <label for="number">Número</label>
+        <input type="number" name="number" id="number">
+        <button type="submit" onclick="addPlayer()">Escalar</button>
+    </p>
+
+    <p>
+        <h3>Remover um jogador</h3>
+        <label for="number-player">Digite o número do jogador a ser removido:</label>
+        <input type="text" name="number-player" id="number-remove">
+        <button type="submit" onclick="removerPlayer()">Remover</button>
+    </p>
+
+    <h1>Time Escalado</h1>
+    <ul id="players-list"></ul>
     <script src="index.js"></script>
 </body>
 </html>
