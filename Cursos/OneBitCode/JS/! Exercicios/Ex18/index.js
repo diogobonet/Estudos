@@ -11,4 +11,4 @@ let mediaPonderada = (...{number, peso}) => {
 }
 
 console.log(media(12, 5, 9, 3, 4, 12, 3, 55))
-console.log(mediaPonderada({2, 3}))
+console.log(mediaPonderada({}))
