@@ -1,12 +1,9 @@
-public class Main {
+public class User {
     public static void main(String[] args) {
         BankFacade bank = new BankFacade();
         bank.addMoney(50);
-        bank.addMoney(500);
+        bank.addMoney(2000);
         bank.consultValue();
-        bank.loanRequest(true, 5000);
-
-        User user1 = new User("Diogo", 0, 0);
-        user1.bankFacade.addMoney(50);
+        bank.loanRequest(true, 500000);
     }
 }

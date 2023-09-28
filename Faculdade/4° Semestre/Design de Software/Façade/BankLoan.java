@@ -1,6 +1,6 @@
 public class BankLoan {
     double loanValue;
-    double minimumValue = 1000;
+    public static double minimumValue;
     boolean loanStatus;
 
     public BankLoan(double loanValue, double minimumValue, boolean loanStatus) {

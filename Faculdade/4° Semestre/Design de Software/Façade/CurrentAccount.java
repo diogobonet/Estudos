@@ -1,7 +1,9 @@
 public class CurrentAccount {
-    public static float currentValue;
+    public static double currentValue;
+    public static double totalValue;
 
-    public CurrentAccount(float currentValue) {
+    public CurrentAccount(double currentValue, double totalValue) {
         CurrentAccount.currentValue = currentValue;
+        CurrentAccount.totalValue = totalValue;
     }
 }
