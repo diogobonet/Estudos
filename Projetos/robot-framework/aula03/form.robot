@@ -8,10 +8,17 @@ ${input_email}      id:email
 ${input_password}   id:password
 ${input_confirmpassword}    id:confirmPassword
 ${button_submit}    id:sub
+${input_pesquisa}   name:field-keywords
 
 *** Keywords ***
 Abrir navegador
     Open Browser    https://app.formtester365.com/signup    chrome
+
+Abrir amazon
+    Open Browser    https://www.amazon.com.br/  chrome
+
+Pesquisa
+    Input Text  ${input_pesquisa}    Monitor Gamer
 
 Preencher campos
     Input Text  ${input_name}    Robson
@@ -32,3 +39,10 @@ Cenário 1: Preencher formulário
     Preencher campos
     Enviar formulario
     Fechar navegador
+
+Cenário 2: Abrir site da amazon
+    Abrir amazon
+    Pesquisa
+    Fechar navegador
+    
+
