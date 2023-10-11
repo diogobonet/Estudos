@@ -1,0 +1,3 @@
+robot -d parametroNomePasta nomedoarquivo.robot // Colocar os arquivos log, report, prints, output | Dentro da pasta indicada
+robot -d parametroNomePasta -t "Nome do Cenário: de Teste" nomedoarquivo.robot // Executar somente um cenário de Teste
+

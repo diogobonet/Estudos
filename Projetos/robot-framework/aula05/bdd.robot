@@ -6,7 +6,7 @@ Library        SeleniumLibrary
 ${NomeDaMusica}    Toto - Africa
 
 # VARIAVEIS DE CONFIGURAÇÃO
-${URL}        https://www.youtube.com/?themeRefresh=1
+${URL}        https://www.youtube.com
 ${Browser}        chrome     
 
 # ELEMENTOS DE PESQUISA
@@ -20,6 +20,7 @@ Dado que eu acesso o site do youtube
     Open Browser    ${URL}    ${Browser}
 
 Quando digito o nome da música
+    Element Should Be Enabled     id:search
     Input Text    ${Input_Pesquisa}  ${NomeDaMusica}
 
 E clico no botão buscar
