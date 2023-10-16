@@ -100,7 +100,7 @@ Verificar notificação de email cadastrado
     Page Should Contain    Email já cadastrado... Por favor tente novamente!
 
 Verificar campos vazios 
-    Page Should Contain    Um dos campos está vazio... Por favor preencha-o!
+   Page Should Contain    Um dos campos está vazio... Por favor preencha-o!
 
 Verificar email não preenchido
     Wait Until Page Does Not Contain    Você tem uma ideia?
