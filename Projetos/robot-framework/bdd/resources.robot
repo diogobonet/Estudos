@@ -69,7 +69,7 @@ insiro o nome composto e clico em registrar
     Sleep     8s
 
 o sistema vai para outra página
-    Page Should Contain    Qual o seu propósito?
+    Page Should Contain    Qual é o seu propósito?
 
 # Caso de Teste 3: Cadastrar um usuário com um email que já foi cadastrado
 preencho todos os campos de formulário de cadastro (email)
