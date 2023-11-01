@@ -21,5 +21,10 @@ p {
 @media (max-width: 510px) {
     .img-content {
         width: 95%;
+        height: auto;
+    }
+
+    p {
+        text-align: center;
     }
 }

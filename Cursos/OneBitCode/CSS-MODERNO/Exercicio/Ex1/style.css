@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+
+img.logo {
+    width: 60px;
+    height: 60px;
+}
+
+img.logo2 {
+    width: 150px;
+    height: 80px;
+}
+
+a {
+    border: 1px solid white;
+    padding: 16px;
+    color: white;
+    border-radius: 10px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
